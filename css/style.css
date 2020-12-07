@@ -1,0 +1,33 @@
+.header{
+	min-height: 100px;
+	background-color: #c83349;
+}
+.wrapper{
+	overflow: hidden;
+	border: 2px solid #622569;
+}
+.blog{
+	float: left;
+	width: 70%;
+	min-height: 200px;
+	background-color: #96ceb4; 
+}
+.contact{
+	float: right;
+	width: 30%;
+	min-height: 200px;
+	background-color: #ffeead; 
+}
+.single{
+	min-height: 150px;
+	background-color: #f9d5e5;
+	border: 1.45px solid #622569;
+	width: 33%;
+	float: left;
+}
+
+.footer{
+	min-height: 100px;
+	background-color: #e06377;
+	clear: both;
+}
